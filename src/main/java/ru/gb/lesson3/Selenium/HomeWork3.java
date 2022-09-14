@@ -20,6 +20,7 @@ public class HomeWork3 {
         driver.findElement(By.id("edit-submit")).click();
         driver.findElement(By.id("q")).sendKeys("Пехов");
         driver.findElement(By.name("submit")).click();
+        //888
 
 
 
